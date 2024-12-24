@@ -51,6 +51,7 @@ Explanation:
 (This is most noticeable in the gaming industry. Many in the gaming community believe that there are no longer any good games like the ones that used to be made.)
 Why Bethesda's Starfield is far behind Skyrim ot Fallout? Simple: Second game is made in agile maner (take money asap regardless of low product quality) first one was made Without a stopwatch above your head and made with programmers Jou in their job.
 This is difference between agile programming model and other models like: "Waterfall model", "Exploratory Programming", etc.
+If programmer have no time to add "Easter Eggs" in his job, he loosing creativity and become machine (Similar to AI source generated).
 
 # Benefits
 - You will learn how to do new things by yourseld regardless better or worse. You will make mistakes but mistakes would be yours not others. So, you can learn from mistakes (and fix it quickly) instead crushing your project by others mistakes and relay on them to fix their bug if you use it.
