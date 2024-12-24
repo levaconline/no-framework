@@ -1,7 +1,8 @@
 # no-framework
 
 no-framework is base for demos from other repositories. 
-It is simplest version of semi-framework focused on PHP knowledge instead on learning new "framework language". So, it is yust base for testing as demo my other classes/repositories.
+It is simplest version of semi-framework focused on PHP knowledge instead on learning new "framework language". So, it is yust base for testing as demo my other classes/repositories.So you you can include only what you need (opposite to most famous frameworks like Laravel, CakePHP, etc.wuoch have included things wkich most of small bussines sits 
+newer uses.
 
 Since it is just base for demos, it no need composer, docker or any aditinal tool. It can work on servers that not allow you to have composer. Usually dedicated for local (wamp, lamp or your custom setup server e.g. nginx) practice how to use my other classes.
 
@@ -17,12 +18,16 @@ Napoleon Bonaparte
 # Usage
 - Development/testing php app on ISP without support git, composer, etc.
 - Can be used as dev framework for bith: CMS.
-- Not dedicated for big servers which needs composer/vendor. 
+- Not dedicated for big servers which needs overpriced services.  
 - Simple put library in dir app/library and use it when 
 you need as you using #include <iostream> in feamework models, class or whatewer you need.
+- This is intended solely for experimenting and testing your programming experience and testing innovative approaches to programming (not system administration - DevOps). Other repositories will be made which include also DevOps not supported on sheap ISP.
+
+# Knowledge needed
+- Only php & MySQL (no need to know things that not uses small sites/bussines like Microservices, CI, Kubernetes, etc. So, you no need to be System Administrator & programmer in one). 
 
 # Note
-- This semiframework have no any desing. It is simple "engine". If you wish some template, you can dind it on web for free. 
+- This semiframework have no any desing. It is simple "engine". If you wish some template, you can find it on web for free or make your own. 
 
 # How to install
 Steps:
@@ -50,6 +55,7 @@ This is difference between agile programming model and other models like: "Water
 # Benefits
 - You will learn how to do new things by yourseld regardless better or worse. You will make mistakes but mistakes would be yours not others. So, you can learn from mistakes (and fix it quickly) instead crushing your project by others mistakes and relay on them to fix their bug if you use it.
 Let again programmer to enjou their job and benefit would be to all (users, companies and programmers). The products will be of much better quality.
+- Do what you wish/need without paying expensive services (it works even on cheapest ISP which anything more than PHP, MySQL (MariaDB)).
 
 # Advice
-Keep it simple. Keep it clean. Nothing new was invented by agile methodolohy. So, be creative instead agile and enjpu your job.
+Keep it simple. Keep it clean. Nothing new was invented by agile methodolohy. So, be creative instead agile and enjoy your job.
