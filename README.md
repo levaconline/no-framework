@@ -1,6 +1,6 @@
 # no-framework
 
-no-framework is base for demos from other repositories. 
+no-framework is base for demos from other repositories. Let's say ti is just playground for php classes/aproaches and ideas.
 It is simplest version of semi-framework focused on PHP knowledge instead on learning new "framework language". So, it is yust base for testing as demo my other classes/repositories.
 
 Since it is just base for demos, it no need composer, docker or any aditinal tool. It can work on servers that not allow you to have composer. Usually dedicated for local (wamp, lamp or your custom setup server e.g. nginx) practice how to use my other classes.
